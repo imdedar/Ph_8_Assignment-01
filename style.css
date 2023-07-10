@@ -12,7 +12,6 @@ body {
   /* width: 1920px; */
   width: 100%;
   height: 700px;
-  background-color: #f4b6c2;
   /* background-color: #3e8e41; */
 }
 
@@ -20,6 +19,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #f4b6c2;
 }
 
 .main-heading{
@@ -56,4 +56,19 @@ body {
     margin-top: 10px;
 }
 
+/* features style */
 
+.features{
+    margin-top: 100px;
+}
+.feature-title{
+    text-align: center;
+    line-height: 1.4;
+}
+
+.feature-title> p{
+    padding-top: 10px;
+    font-size: 18px;
+    color: #a19e9e;
+
+}
