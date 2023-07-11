@@ -87,13 +87,13 @@ body {
   
 }
 
-.feature-img1{
+.feature-img1, .card-1{
     background-color: #a8e6cf;
 }
-.feature-img2{
+.feature-img2, .card-2{
     background-color: #dcedc1;
 }
-.feature-img3{
+.feature-img3, .card-3{
     background-color:  #ffd3b6;
 }
 
@@ -161,13 +161,13 @@ border-radius: 5px;
     height: 100vh;
     margin: 0 auto;
     margin-bottom: 300px;
+    
 }
 .testimonial-card{
-    padding-top: 50px;
+    padding-top: 30px;
     width: 900px;
-    height: 200px;
+    height: 180px;
     border-radius: 8px;
-    background-color: #f4b6c2;
     margin: 0 auto;
     margin-bottom: 20px;
 }
@@ -181,9 +181,10 @@ border-radius: 5px;
 .client-text{
     width: 70%;
     font-size: 20px;
+    padding-bottom: 10px;
 }
 .client-1{
-    width: 175px;
+    width: 170px;
     height: 160px;
     border-radius: 50%;
 }
