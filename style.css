@@ -157,6 +157,10 @@ border-radius: 5px;
     line-height: 1.6;
 }
 
+.sale-text h1{
+    color: #fff;
+}
+
 .discount{
     color:#851e3e;
     font-weight: 700;
